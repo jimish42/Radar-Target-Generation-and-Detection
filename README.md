@@ -99,12 +99,12 @@ plot(sig_fft)
 axis ([0 200 0 1]);
 title('Range from First FFT')
 ```
-![Range_FFT_output](Range_FFT_output.png)
+![Range_FFT_output](Range_FFT_output.jpg)
 
 
 #####  Range Doppler Map output:
 
-![RDM](RDM_Surf)
+![RDM](RDM_Surf.jpg)
 
 #### 2D CFAR
 Implement the 2D CFAR process on the output of 2D FFT operation, i.e the Range Doppler Map.
